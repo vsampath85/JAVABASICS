@@ -4,7 +4,7 @@ import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
-public class apptest {
+public class Apptest {
     @Test
     @DisplayName("check that 5 == 5")
     void simpleTest() {

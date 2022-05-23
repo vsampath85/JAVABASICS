@@ -1,9 +1,6 @@
 package com.sparta.mg;
 
-/**
- * Hello world!
- *
- */
+//vani projects
 public class App 
 {
     public static void main( String[] args )
